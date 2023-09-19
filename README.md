@@ -1,2 +1,1 @@
-# mipt_cpp
-Projects done at C++ course at MIPT 2022
+# C++ Deque with Allocators and Move-sematics
